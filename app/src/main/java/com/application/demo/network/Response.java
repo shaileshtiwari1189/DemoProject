@@ -18,7 +18,7 @@ public class Response {
         return response;
     }
 
-    public void setResponse(LanguageResponse response) {
+    public void setResponse (LanguageResponse response) {
         this.response = response;
     }
 
